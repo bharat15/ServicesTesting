@@ -1,0 +1,3 @@
+testcaseid,description,keywords,remarks
+TC001,Create a Multi Tenant Application,loginAsDeployerAdmin;createMultiTenantApplication;getAllApplications,
+TC002,Logut from the application,navigateToDashboard;navigateToSettings;logout;verifyLogout,
